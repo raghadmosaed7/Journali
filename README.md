@@ -75,9 +75,6 @@ Journali
 - As a user, I want to bookmark specific journal entries, so that I can easily find my favorite or important entries later.
 - As a user, I want to filter my journal entries to view only those that are bookmarked, so that I can quickly access my most important notes.
 
-## Screenshots
-
-<!-- Add your screenshots here, for example: ![Main page](screenshots/main.png) -->
 
 ## Author
 
